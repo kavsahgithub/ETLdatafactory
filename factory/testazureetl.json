@@ -1,0 +1,9 @@
+{
+	"name": "testazureetl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f27ff57-0d2c-4378-b7a6-c7fb01d8653a",
+		"tenantId": "9f7237ec-448c-4584-afb5-efbb6aceef84"
+	}
+}
